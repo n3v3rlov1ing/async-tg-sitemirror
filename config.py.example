@@ -1,0 +1,2 @@
+token: str = ''
+urls: dict = {'Test': 'https://zelenka.guru/'}
